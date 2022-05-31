@@ -1,4 +1,5 @@
 ### Hi there 👋
+# Get my app on GooglePlay <a href="https://play.google.com/store/apps/details?id=com.hidix.hidix">HIDIX - The Steganography Tool</a>
 
 <!--
 **rohit-krish/rohit-krish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
